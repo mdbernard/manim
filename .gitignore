@@ -20,3 +20,9 @@ manim.sublime-workspace
 
 primes.py
 /media_dir.txt
+dist/manim-0.0.0-py3.6.egg
+manim.egg-info/dependency_links.txt
+manim.egg-info/PKG-INFO
+manim.egg-info/requires.txt
+manim.egg-info/SOURCES.txt
+manim.egg-info/top_level.txt

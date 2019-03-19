@@ -13,5 +13,4 @@ if __name__ == "__main__":
             to_twitch=args.to_twitch,
             twitch_key=args.twitch_key,
         )
-else:
-    manimlib.stream_starter.start_livestream()
+
