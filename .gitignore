@@ -17,7 +17,7 @@ ben_cairo_test.py
 media
 manim.sublime-project
 manim.sublime-workspace
-
+dist/
 primes.py
 /media_dir.txt
 dist/manim-0.0.0-py3.6.egg
