@@ -7,7 +7,7 @@ DESCRIPTION = "Manim is an animation engine for explanatory math videos. It\'s u
 URL = "https://github.com/mdbernard/manim"
 AUTHOR = "3Blue1Brown"
 REQUIRES_PYTHON = ">=3.7.0"
-VERSION = None
+VERSION = "1.0.0"
 
 REQUIRED = [
     "argparse==1.4.0",
