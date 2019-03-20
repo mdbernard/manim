@@ -13,4 +13,3 @@ if __name__ == "__main__":
             to_twitch=args.to_twitch,
             twitch_key=args.twitch_key,
         )
-
